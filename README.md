@@ -1,3 +1,4 @@
+# XML to JSON and vice-versa for strings of interest processing
 **A simple Python parser for XML to JSON transcription**
 The script was written intially designed for automating the translation of Blockly XML blocks. 
 ***parser.py*** provides the following functionalities:
